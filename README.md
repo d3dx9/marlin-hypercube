@@ -8,3 +8,5 @@ Marlin Configuration for my Hypercube Evolution
  - Custom Extruder Mount
  - WS2812 LEDs
  - BLTouch
+ - Sensorless Homing with TMC2209
+ - SKR 1.4 Turbo
